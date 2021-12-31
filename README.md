@@ -70,6 +70,11 @@ Abaixo, todas as atividades do **Bootcamp Inter Frontend Developer**:
 - [x] Sintaxe Básica em JavaScript; - :paperclip: [**[Certificado]**](https://certificates.digitalinnovation.one/0A648966);
 - [x] Sintaxe e Operadores; - :paperclip: [**[Certificado]**](https://certificates.digitalinnovation.one/96A26938);
 - [x]  Variáveis e Tipos; - :paperclip: [**[Certificado]**](https://certificates.digitalinnovation.one/BE0FF6C5);
+- [x]  Funções; - :paperclip: [**[Certificado]**](https://certificates.digitalinnovation.one/C1D0847A);
+- [x]  Coleções; - :paperclip: [**[Certificado]**](https://hermes.digitalinnovation.one/certificates/0B2739AC.pdf);
+
+
+   
   
 
   
