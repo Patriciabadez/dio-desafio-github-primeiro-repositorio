@@ -72,6 +72,12 @@ Abaixo, todas as atividades do **Bootcamp Inter Frontend Developer**:
 - [x]  Variáveis e Tipos; - :paperclip: [**[Certificado]**](https://certificates.digitalinnovation.one/BE0FF6C5);
 - [x]  Funções; - :paperclip: [**[Certificado]**](https://certificates.digitalinnovation.one/C1D0847A);
 - [x]  Coleções; - :paperclip: [**[Certificado]**](https://hermes.digitalinnovation.one/certificates/0B2739AC.pdf);
+- [x]  Debugging e Error Handling; - :paperclip: [**[Certificado]**](https://hermes.digitalinnovation.one/certificates/3755E903.pdf);
+
+
+
+
+
 
 
    
